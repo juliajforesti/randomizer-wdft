@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/randomizer-wdft/static/css/main.e6bb0a10.chunk.css",
+    "main.js": "/randomizer-wdft/static/js/main.b34eba37.chunk.js",
+    "main.js.map": "/randomizer-wdft/static/js/main.b34eba37.chunk.js.map",
+    "runtime-main.js": "/randomizer-wdft/static/js/runtime-main.d5adfbf6.js",
+    "runtime-main.js.map": "/randomizer-wdft/static/js/runtime-main.d5adfbf6.js.map",
+    "static/js/2.c6541dec.chunk.js": "/randomizer-wdft/static/js/2.c6541dec.chunk.js",
+    "static/js/2.c6541dec.chunk.js.map": "/randomizer-wdft/static/js/2.c6541dec.chunk.js.map",
+    "index.html": "/randomizer-wdft/index.html",
+    "precache-manifest.acb5712f570488fdb7f653340f9df17a.js": "/randomizer-wdft/precache-manifest.acb5712f570488fdb7f653340f9df17a.js",
+    "service-worker.js": "/randomizer-wdft/service-worker.js",
+    "static/css/main.e6bb0a10.chunk.css.map": "/randomizer-wdft/static/css/main.e6bb0a10.chunk.css.map",
+    "static/js/2.c6541dec.chunk.js.LICENSE.txt": "/randomizer-wdft/static/js/2.c6541dec.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/randomizer-wdft/static/media/hxagon.0cd0ca79.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5adfbf6.js",
+    "static/js/2.c6541dec.chunk.js",
+    "static/css/main.e6bb0a10.chunk.css",
+    "static/js/main.b34eba37.chunk.js"
+  ]
+}
