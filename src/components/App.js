@@ -13,10 +13,10 @@ function App() {
     <div className='App'>
     <BrowserRouter>
       <Navbar />
-      <Route exact path='/randomizer' component={Home} />
-      <Route exact path='/randomizer/random' component={StudentRandomizer} />
-      <Route exact path='/randomizer/pairs' component={PairsGenerator} />
-      <Route exact path='/randomizer/random-order' component={RandomOrder} />
+      <Route exact path='/randomizer-wdft' component={Home} />
+      <Route exact path='/randomizer-wdft/random' component={StudentRandomizer} />
+      <Route exact path='/randomizer-wdft/pairs' component={PairsGenerator} />
+      <Route exact path='/randomizer-wdft/random-order' component={RandomOrder} />
       <Footer />
     </BrowserRouter>
     </div>
