@@ -7,6 +7,8 @@ import Navbar from "./Navbar";
 import PairsGenerator from "./PairsGenerator";
 import RandomOrder from "./RandomOrder";
 import StudentRandomizer from "./StudentRandomizer";
+import HeadsOrTails from "./HeadsOrTails";
+
 
 function App() {
   return(
@@ -17,6 +19,7 @@ function App() {
       <Route exact path='/randomizer-wdft/random' component={StudentRandomizer} />
       <Route exact path='/randomizer-wdft/pairs' component={PairsGenerator} />
       <Route exact path='/randomizer-wdft/random-order' component={RandomOrder} />
+      <Route exact path='/randomizer-wdft/heads-or-tails' component={HeadsOrTails} />
       <Footer />
     </BrowserRouter>
     </div>
