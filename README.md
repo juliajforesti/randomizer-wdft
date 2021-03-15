@@ -1,8 +1,8 @@
-## [IronRandomizer](https://juliajforesti.github.io/randomizer)
+## [IronRandomizer](https://juliajforesti.github.io/randomizer-wdft)
 
 IronRandomizer was developed to help picking students, creating pairs and orders randomly.
 
-Deploy: [Here](https://juliajforesti.github.io/randomizer)
+Deploy: [Here](https://juliajforesti.github.io/randomizer-wdft)
 
 ![Alt text](./src/assets/images/printScreen.png?raw=true "printScreen.png")
 
